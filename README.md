@@ -1,4 +1,4 @@
-# ![]()
+# ![](https://github.com/alletsc/data_cleaning/blob/main/assets/img/telecomunication.png?raw=true)
 
 ## **🧑🏽‍💼 Análise e limpeza de dados de telecomunicações 🐍**
 
