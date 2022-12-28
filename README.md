@@ -1,8 +1,12 @@
 # ![](https://github.com/alletsc/data_cleaning/blob/main/assets/img/telecomunication.png?raw=true)
 
+
+
 ## **🧑🏽‍💼 Análise e limpeza de dados de telecomunicações 🐍**
 
-## ✅ **Objetivo**
+## ✅ **Sobre**
+
+O objetivo deste projeto é realizar a análise e limpeza de dados de telecomunicações. Me utilizo de tecnica de limpeza de dados para tratar os dados faltantes, outliers e dados duplicados tudo isso fazendo uso de funções que foram criadas para tal.
 
 ## 🧹 Etapas de Limpeza de Dados
 
@@ -23,16 +27,16 @@ Os arquivos e funções são:
 
 - conversao_dados.py
 
-  - `convert_to_string`:
-  - `convert_to_int`:
-  - `convert_to_datetime`:
-  - `convert_to_factor`:
+  - `convert_to_string`
+  - `convert_to_int`
+  - `convert_to_datetime`
+  - `convert_to_factor`
 
 - trat_outliers.py
 
-  - `remove_outliers`:
-  - `replace_outliers_with_fences`:
-  - `getOveview`:
+  - `remove_outliers`
+  - `replace_outliers_with_fences`
+  - `getOveview`
 
 - valores_ausentes.py
 
@@ -47,15 +51,10 @@ Os arquivos e funções são:
   - `drop_rows_with_missing_values`: Drop de linhas com valores ausentes
   - `drop_columns`: Drop de colunas
 
-## 🚨 **Problema de negócio**
-
-
-## Conclusões
 
 
 
 
-**Recomendações do Analista de Dados**:
 
 
 
