@@ -40,7 +40,7 @@ Os arquivos e funções são:
 
 - valores_ausentes.py
 
-  - ` func_calc_percentual_valores_ausentes`: Calcula o percentual de valores ausentes em um DataFrame
+  - `func_calc_percentual_valores_ausentes`: Calcula o percentual de valores ausentes em um DataFrame
   - `func_calc_percentual_valores_ausentes_linha`: calcula o percentual de linhas com valores ausentes
   - `func_calc_percentual_valores_ausentes_coluna`: calcula valores ausentes por coluna
   - `fix_missing_ffill`: Imputação de valores ausentes usando forward fill (preenchimento progressivo) - preenche com o próximo valor válido
